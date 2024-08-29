@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{6B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleApp", "..\Examples\SampleApp\SampleApp.csproj", "{DB671922-7280-4854-9C4F-0BA073B5F1E2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmtpServer.Hosting", "SmtpServer.Hosting\SmtpServer.Hosting.csproj", "{42C9E7EF-4598-4721-B31E-67205AEFEEAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{DB671922-7280-4854-9C4F-0BA073B5F1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB671922-7280-4854-9C4F-0BA073B5F1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB671922-7280-4854-9C4F-0BA073B5F1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C9E7EF-4598-4721-B31E-67205AEFEEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C9E7EF-4598-4721-B31E-67205AEFEEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C9E7EF-4598-4721-B31E-67205AEFEEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C9E7EF-4598-4721-B31E-67205AEFEEAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
